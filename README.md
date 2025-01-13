@@ -6,3 +6,6 @@
 https://docs.google.com/spreadsheets/d/{random_string}
 ```
 Скрипт работает в многопоточном режиме 
+
+Requirements:
+В системе должен быть уставноен [xeuledoc](https://github.com/Malfrats/xeuledoc)
