@@ -9,3 +9,12 @@ https://docs.google.com/spreadsheets/d/{random_string}
 
 Requirements:
 В системе должен быть уставноен [xeuledoc](https://github.com/Malfrats/xeuledoc)
+
+# yandex disk 
+
+Скрипт позволяет массово извлечь владельцев файлов в яндекс диске
+Строка для запуска
+
+`python3 yandex_disk_owner_extractor.py -o output_file input_file "cookie_string"`
+
+В конце скрипт выдаст файл формата url - owner
